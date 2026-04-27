@@ -75,6 +75,7 @@ These columns describe how the video was encoded or compressed.
 
 ---
 
+
 ## 🔹 4. Target / Quality Metrics (`t_`)
 
 These represent the output performance and perceived quality after encoding.
