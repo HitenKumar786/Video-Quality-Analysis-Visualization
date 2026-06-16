@@ -8,8 +8,6 @@ This dataset contains information about video sources, their content characteris
 
 
 
-
-
 ## 🔹 1. Source Video Information (`s_`)
 
 
