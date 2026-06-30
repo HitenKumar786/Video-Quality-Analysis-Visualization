@@ -39,7 +39,8 @@ These features capture the visual characteristics and complexity of the video.
 - `c_colorhistogram_mean_dark`  
 - `c_colorhistogram_mean_medium_dark`  
 - `c_colorhistogram_mean_medium_bright`  
-- `c_colorhistogram_mean_bright`  
+- `c_colorhistogram_mean_bright`
+  
 
 #### Brightness Variation (Standard Deviation)
 - `c_colorhistogram_std_dev_dark`  
