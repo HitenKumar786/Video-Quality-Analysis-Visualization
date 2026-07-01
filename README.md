@@ -86,6 +86,7 @@ These represent the output performance and perceived quality after encoding.
 - **`t_average_vmaf`**: VMAF score (perceptual video quality)  
 - **`t_average_vmaf_mobile`**: VMAF score optimized for mobile viewing  
 - **`t_average_vmaf_4k`**: VMAF score optimized for 4K displays  
+
 - **`t_average_psnr`**: PSNR (Peak Signal-to-Noise Ratio)
 
 ---
