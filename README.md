@@ -18,7 +18,6 @@ These columns describe the original input video properties.
 - **`s_duration`**: Duration of the video (in seconds)  
 - **`s_scan_type`**: Scan format (e.g., progressive or interlaced)
 
----
 
 ## 🔹 2. Content Features (`c_`)
 
