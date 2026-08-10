@@ -62,6 +62,7 @@ These columns describe how the video was encoded or compressed.
 - **`e_width` / `e_height`**: Output resolution  
 - **`e_aspect_ratio`**: Display aspect ratio  
 - **`e_pixel_aspect_ratio`**: Pixel aspect ratio  
+
 - **`e_codec`**: Video codec used (e.g., H.264, H.265)  
 - **`e_codec_profile`**: Codec profile (e.g., baseline, main, high)  
 - **`e_codec_level`**: Codec level constraints  
