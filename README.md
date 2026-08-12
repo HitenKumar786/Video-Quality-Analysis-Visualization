@@ -8,7 +8,6 @@ This dataset contains information about video sources, their content characteris
 
 ## 🔹 1. Source Video Information (`s_`)
 
-
 These columns describe the original input video properties.
 
 - **`s_video_id`**: Unique identifier for each video  
